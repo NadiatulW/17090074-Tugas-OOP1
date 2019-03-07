@@ -1,0 +1,12 @@
+public class BNadia {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+       System.out.println("Nama  : Nadiatul Wahidah");
+       System.out.println("NIM   : 17090074");
+       System.out.println("Kelas : 4B");
+    }
+    
+}
